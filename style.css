@@ -32,3 +32,11 @@ h1{
     min-height: 159px;
 }
 
+#footer{
+    padding-left: 20px;
+    padding-top: 10px ;
+    padding-bottom: 20px;
+    border-top: 3px solid black;
+    box-sizing: border-box;
+}
+
